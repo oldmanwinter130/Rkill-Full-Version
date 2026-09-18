@@ -233,4 +233,4 @@ This repository serves as the official landing page for RKill. The software is d
 **Get the most recent version of RKill today!**
 
 ---
-**Last updated:** 2026-09-18 18:15:00 UTC
+**Last updated:** 2026-09-18 21:33:27 UTC
